@@ -1,9 +1,7 @@
-import Image from "next/image";
+import Portfolio from "@/components/porfolio/porfolio";
 
 export default function Home() {
   return (
-    <p>wkwkw</p>
+    <Portfolio />
   );
 }
-
-// buatkan folder components/porfolio/porfolio.tsx dengan design yang terkini dan elegan menggunakan tailwindcss dan shadcn ui
